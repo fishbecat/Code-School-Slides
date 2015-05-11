@@ -1,12 +1,14 @@
 Code-School-Slides
 ==================
 # HTML&CSS
-- Front-end Foundations
+- [Front-end Foundations](http://courseware.codeschool.com/front-end-foundations/Front-end-Foundations.pdf)
 - [Front-end Formations](http://courseware.codeschool.com.s3.amazonaws.com/frontend/Code%20School%20-%20Front-end%20Formations.pdf)
 - [CSS Cross-Country](http://courseware.codeschool.com.s3.amazonaws.com/cssxcountry_slides.pdf)
 - [Journey Into Mobile](http://courseware.codeschool.com.s3.amazonaws.com/journey_into_mobile_slides.pdf)
+- [Unmasking HTML Emails](http://courseware.codeschool.com/unmasking_html_emails/slides/CodeSchool-UnmaskingHTMLEmails.pdf)
 - [Assembling Sass Part 1](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_slides.pdf)
 - [Assembling Sass Part 2](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_part_2_slides.pdf)
+- [Blasting Off with Bootstrap](http://courseware.codeschool.com/blasting_off_with_bootstrap/slides/CodeSchool-BlastingOffWithBootstrap.pdf)
 - [Fundamentals of Design](http://courseware.codeschool.com.s3.amazonaws.com/FoD_optimized.pdf)
 
 # JavaScript
@@ -19,9 +21,10 @@ Code-School-Slides
 - [The Anatomy of Backbone.js Part 1](http://courseware.codeschool.com.s3.amazonaws.com/The_Anatomy_of_BackboneJS.pdf)
 - [The Anatomy of Backbone.js Part 2](http://courseware.codeschool.com.s3.amazonaws.com/backbone2/backbone2.pdf)
 - [Real-time Web with Node.js](http://courseware.codeschool.com.s3.amazonaws.com/node_slides.pdf)
-- Node Design Patterns
+- [Building Blocks of Express.js](http://courseware.codeschool.com/building-blocks-of-express-js/all-levels.pdf)
 - [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
+- [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full.pdf)
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
 
 # Ruby and Rails
@@ -50,6 +53,7 @@ Code-School-Slides
 - [Discover Drive](http://courseware.codeschool.com.s3.amazonaws.com/discover-drive-full.pdf)
 - Discover Dart
 - Try R
+- [Try SQL](http://courseware.codeschool.com/try_sql/trysql-slides.pdf)
 - Try Git
 - [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
 - [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
