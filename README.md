@@ -57,7 +57,7 @@ Code-School-Slides
 - Try Git
 - [Git Real](http://courseware.codeschool.com.s3.amazonaws.com/git_real_slides.pdf)
 - [Git Real 2](http://courseware.codeschool.com.s3.amazonaws.com/git_real2/git_real_2_full_deck.pdf)
-- Mastering Github
+- [Mastering Github](http://courseware.codeschool.com/mastering-github/CodeSchool_MasteringGithubCourse.pdf)
 
 # Retired
 - [HTML & CSS Formations: 3 for 5](http://courseware.codeschool.com.s3.amazonaws.com/Three_For_Five.pdf), [Cheatsheet](http://courseware.codeschool.com.s3.amazonaws.com/css3_cheat_sheetv4.2.pdf)
