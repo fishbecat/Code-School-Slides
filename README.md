@@ -45,6 +45,12 @@ Code-School-Slides
 - [Core iOS7](http://courseware.codeschool.com.s3.amazonaws.com/ios7/iOS7CourseSlides.pdf)
 - [Exploring Google Maps for iOS](http://courseware.codeschool.com/googlemapsios/Exploring-Google-Maps-For-iOS-FULL.pdf)
 
+# Database
+- [Try SQL](http://courseware.codeschool.com/try_sql/trysql-slides.pdf)
+- [The Sequel to SQL](http://courseware.codeschool.com/the_sequel_to_sql/slides/CodeSchool-TheSequelToSQL-full-small.pdf)
+- [The Magical Marvels of MongoDB](http://courseware.codeschool.com/the-magical-marvels-of-mongodb/the-magical-marvels-of-mongodb-slides.pdf)
+
+
 # Electives
 - Discover DevTools
 - [Discover Drive](http://courseware.codeschool.com.s3.amazonaws.com/discover-drive-full.pdf)
