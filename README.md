@@ -8,6 +8,7 @@ Code-School-Slides
 - [Assembling Sass Part 1](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_slides.pdf)
 - [Assembling Sass Part 2](http://courseware.codeschool.com.s3.amazonaws.com/assembling_sass_part_2_slides.pdf)
 - [Fundamentals of Design](http://courseware.codeschool.com.s3.amazonaws.com/FoD_optimized.pdf)
+- [Blasting Off with Bootstrap](http://courseware.codeschool.com/blasting_off_with_bootstrap/slides/CodeSchool-BlastingOffWithBootstrap.pdf)
 
 # JavaScript
 - [JavaScript Road Trip Part 1](http://courseware.codeschool.com.s3.amazonaws.com/javascript-roadtrip/js1.pdf)
@@ -19,10 +20,15 @@ Code-School-Slides
 - [The Anatomy of Backbone.js Part 1](http://courseware.codeschool.com.s3.amazonaws.com/The_Anatomy_of_BackboneJS.pdf)
 - [The Anatomy of Backbone.js Part 2](http://courseware.codeschool.com.s3.amazonaws.com/backbone2/backbone2.pdf)
 - [Real-time Web with Node.js](http://courseware.codeschool.com.s3.amazonaws.com/node_slides.pdf)
-- Node Design Patterns
+- Node Design Patternse
+- [The Magical Marvels of MongoDB](http://courseware.codeschool.com/the-magical-marvels-of-mongodb/the-magical-marvels-of-mongodb-slides.pdf)
+- [Building Blocks of Express.js](http://courseware.codeschool.com/building-blocks-of-express-js/all-levels.pdf)
 - [Warming Up with Ember.js](http://courseware.codeschool.com/ember/slides/CodeSchool-Emberjs.pdf)
 - [Shaping Up with Angular.js](http://courseware.codeschool.com/shaping-up-with-angular-js/Slides/level01-05.pdf)
+- [Staying Sharp with Angular.js](http://courseware.codeschool.com/staying-sharp-with-angular-js/angular2-full-small.pdf)
 - [JavaScript Best Practices](http://courseware.codeschool.com.s3.amazonaws.com/javascript-best-practices/JSBP_full.pdf)
+- [ES2015: The Shape of JavaScript to come](http://courseware.codeschool.com/es2015-the-shape-of-javascript-to-come/all-levels.pdf)
+- [Powering Up With React](http://courseware.codeschool.com/powering-up-with-react/CodeSchool-PoweringUpWithReact.pdf)
 
 # Ruby and Rails
 - Try Ruby
